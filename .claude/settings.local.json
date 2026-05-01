@@ -1,8 +1,0 @@
-{
-  "permissions": {
-    "allow": [
-      "Bash(pandoc \"C:\\\\Users\\\\lucas\\\\Downloads\\\\Matheus_Novais_Ximenes_CV.docx\" -o /tmp/cv_content.md)",
-      "Read(//tmp/**)"
-    ]
-  }
-}
